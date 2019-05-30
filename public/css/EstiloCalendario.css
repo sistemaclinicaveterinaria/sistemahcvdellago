@@ -1,0 +1,12 @@
+/* Cabezera Calendario*/
+.fc th{
+    padding: 10px 0px;
+    vertical-align: right;
+    background: #F2F2F2;
+}
+/*Cabezera Navbar Calendario*/
+.fc-head-container{
+    color:  #4ea3e5;
+}
+
+/*Estaba creando css de ejemplo para ir probando xD */

@@ -1,0 +1,52 @@
+/*
+	Color fondo: #632432;
+	Color header: #246355;
+	Color borde: 0F362D;
+	Color iluminado: 369681;
+*/
+
+/*************/
+
+/*Formato de tabla general, colores, etc. */
+.nav {
+  z-index: 9;
+}
+
+.bs-example{
+  margin: 20px;        
+}
+
+.img-table {
+  border-radius: 100%;
+}
+
+body {
+  text-align: center;
+  padding: 15px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0 5px;
+}
+
+thead th {
+  background-color: #9e3390;
+  color: white;
+}
+
+tbody td {
+  background-color: #EEEEEE;
+}
+
+tr td:first-child,
+tr th:first-child {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+tr td:last-child,
+tr th:last-child {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
